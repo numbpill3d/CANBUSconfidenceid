@@ -26,7 +26,7 @@ This tool performs statistical and structural inference on raw CAN bus logs (can
 
 ### Install from source
 ```bash
-git clone <repository-url>
+git clone https://github.com/numbpill3d/CANBUSconfidenceid.git
 cd CANBUSconfidenceid
 pip install .
 ```

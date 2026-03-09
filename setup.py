@@ -11,7 +11,7 @@ setup(
     description="A tool for analyzing CAN bus logs to infer rolling counters, checksum bytes, and multi-byte numeric signals",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/can-hypothesis-engine",
+    url="https://github.com/numbpill3d/CANBUSconfidenceid",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 5 - Production/Stable",
