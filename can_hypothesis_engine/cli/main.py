@@ -7,8 +7,8 @@ import argparse
 import sys
 import json
 from pathlib import Path
-from ..parser.can_parser import parse_can_log
-from ..engine import CANHypothesisEngine
+from can_hypothesis_engine.parser.can_parser import parse_can_log
+from can_hypothesis_engine.engine import CANHypothesisEngine
 
 
 def main():
